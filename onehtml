@@ -5,7 +5,7 @@
 <font face = "calibri" size = "5" color = "Black"><b> Welcome</b></font><br>
 </head>
 <body>
-<font face = "calibri" size = "3" color = "black"><b> Divya </b></font><br><br>
+<font face = "Arial" size = "3" color = "black"><b> Priyanka </b></font><br><br>
 <form action="file:///C:/Users/balap/Desktop/Academics/SEM-6/WAD%20Lab/data.html">
 <label for="fname">First name:</label><br>
 <input type="text" name="fname" value="fname" size=20><br>
