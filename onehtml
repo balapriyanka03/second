@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+<head>
+<center>
+<font face = "calibri" size = "5" color = "Black"><b> Welcome</b></font><br>
+</head>
+<body>
+<font face = "calibri" size = "3" color = "black"><b> Divya </b></font><br><br>
+<form action="file:///C:/Users/balap/Desktop/Academics/SEM-6/WAD%20Lab/data.html">
+<label for="fname">First name:</label><br>
+<input type="text" name="fname" value="fname" size=20><br>
+<label for="lname">Last name:</label><br>
+<input type="text" name="lname" value="lname" size=20><br>
+<label for="Roll number">Roll number:</label><br>
+<input type="text" Roll number="Roll number" value="rno" size=15><br><br>
+<input type="submit" value="Submit">
+</form>
+</body>
+</center>
+</html>
